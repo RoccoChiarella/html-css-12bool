@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.red{
+    background-color: red;
+}
+
+.yellow{
+    background-color: #FFC20E;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.brown{
+    background-color: #462300;
+}
+
+.black{
+    background-color: black;
+}
+
+.white{
+    background-color: white;
+}
+
+.gold{
+    background-color: gold;
+}
